@@ -5,6 +5,6 @@ The `baseExample` project include many modules with solved tasks. The number of 
 `Modules:`
 1. `homework_1` consist 4 tasks from `Yandex-Contest`
 2. `homework_2` consist 3 tasks:
-  -> Class with `geometrical distances`
-  -> Class with `VeryLong` integer
-  -> Class with algorithm of `Aho-Korasik`
+  -> Class with `geometrical distances` <br>
+  -> Class with `VeryLong` integer <br>
+  -> Class with algorithm of `Aho-Korasik` <br>
