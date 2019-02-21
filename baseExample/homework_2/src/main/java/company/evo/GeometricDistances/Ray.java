@@ -1,4 +1,4 @@
-package main.java.company.evo;
+package main.java.company.evo.GeometricDistances;
 
 public class Ray extends Section {
 

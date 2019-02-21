@@ -1,25 +1,49 @@
 package main.java.company.evo.VeryLong;
 
 
-import java.nio.ByteBuffer;
-import java.nio.IntBuffer;
+import java.util.Arrays;
+import java.util.List;
 
 public class VeryLong {
 
+    final int SIZE_NUM = 10;
+    private List<String> operands, operators;
 
-    public static void main(String[] args) {
-        int[] data = { 100, 200, 300, 400 };
 
-        ByteBuffer byteBuffer = ByteBuffer.allocate(data.length * 4);
-        IntBuffer intBuffer = byteBuffer.asIntBuffer();
-        intBuffer.put(data);
+//    public VeryLong (String str){
+//        this.value = str;
+//    }
 
-        byte[] array = byteBuffer.array();
 
-        for (int i=0; i < array.length; i++)
-        {
-            System.out.println(i + ": " + array[i]);
+
+    public VeryLong (String str) throws NullPointerException{
+
+        List splitedStr = Arrays.asList(str.split(" "));
+
+        for (int i=0; i < splitedStr.size(); i += 2){
+
+            this.operators.add(String.valueOf(splitedStr.get(i)));
+
+            if (i+1 == splitedStr.size()){
+                break;
+            }else {
+                this.operands.add(String.valueOf(splitedStr.get(i + 1)));
+            }
+
         }
 
+
+
     }
+
+    public void getResult(){
+
+//        parceString(operation);
+
+        System.out.println(this.operands + " " + this.operators);
+
+
+    }
+
+
 }

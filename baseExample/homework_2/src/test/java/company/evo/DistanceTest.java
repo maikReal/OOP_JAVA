@@ -1,7 +1,7 @@
 package test.java.company.evo;
 
-import main.java.company.evo.Distance;
-import main.java.company.evo.Point;
+import main.java.company.evo.GeometricDistances.Distance;
+import main.java.company.evo.GeometricDistances.Point;
 import org.junit.jupiter.api.BeforeAll;
 
 import java.util.ArrayList;
