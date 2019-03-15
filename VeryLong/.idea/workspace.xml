@@ -7,124 +7,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4491a56-57aa-4ee7-83df-4166b51a4ef7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../baseExample/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/Geometry/src/main/java/company/evo/GeometricDistances/Distance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/Geometry/src/main/java/company/evo/GeometricDistances/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/Geometry/src/main/java/company/evo/GeometricDistances/Ray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/Geometry/src/main/java/company/evo/GeometricDistances/Section.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/Geometry/src/main/java/company/evo/GeometricDistances/Straight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/Geometry/src/test/java/company/evo/DistanceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/VeryLong/VeryLong.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/baseExample.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/homework_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/src/main/java/company/evo/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/src/main/java/company/evo/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/src/main/java/company/evo/B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/src/main/java/company/evo/C.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/src/main/java/company/evo/Currency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/src/main/java/company/evo/D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/src/main/java/company/evo/ProcessingImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/src/main/java/company/evo/Transaction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/src/main/java/company/evo/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/src/main/java/company/evo/UserTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/src/main/java/company/evo/interfaces/MyINterface2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/src/main/java/company/evo/interfaces/MyInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/src/main/java/company/evo/interfaces/Processing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_1/src/main/java/company/evo/junit_description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_2/src/main/java/company/evo/VeryLong/VeryLong.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/homework_2/src/test/java/company/evo/VeryLongTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/A.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/C.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/allclasses-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/allclasses.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/allpackages-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/com/company/Account.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/com/company/B.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/com/company/Currency.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/com/company/D.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/com/company/ProcessingImpl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/com/company/Transaction.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/com/company/interfaces/MyINterface2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/com/company/interfaces/MyInterface.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/com/company/interfaces/Processing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/com/company/interfaces/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/com/company/interfaces/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/com/company/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/com/company/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/element-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/index-files/index-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/index-files/index-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/index-files/index-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/index-files/index-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/index-files/index-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/index-files/index-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/index-files/index-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/index-files/index-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/index-files/index-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/index-files/index-9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/external/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/jquery-3.3.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/jquery-migrate-3.0.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/jquery-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/jquery-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/jquery-ui.structure.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/jquery-ui.structure.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/jszip/dist/jszip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/member-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/member-search-index.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/overview-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/package-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/package-search-index.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/production/baseExample/META-INF/baseExample.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/production/homework_1/main/java/company/evo/junit_description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/production/homework_2/main/java/company/evo/GeometricDistances/Distance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/production/homework_2/main/java/company/evo/GeometricDistances/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/production/homework_2/main/java/company/evo/GeometricDistances/Ray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/production/homework_2/main/java/company/evo/GeometricDistances/Section.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/production/homework_2/main/java/company/evo/GeometricDistances/Straight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/production/homework_2/main/java/company/evo/VeryLong/VeryLong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/production/homework_2/test/java/company/evo/DistanceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/production/homework_2/test/java/company/evo/VeryLongTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/resources/glass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/resources/x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/type-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baseExample/out/type-search-index.zip" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AhoCorasick/AhoCorasick.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AhoCorasick/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeometryDistances/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryDistances/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GeometryDistances/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryDistances/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GeometryDistances/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryDistances/GeometryDistances.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GeometryDistances/GeometryDistances.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryDistances/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryDistances/src/main/java/company/evo/GeometricDistances/Distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GeometryDistances/src/main/java/Distance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryDistances/src/main/java/company/evo/GeometricDistances/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GeometryDistances/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryDistances/src/main/java/company/evo/GeometricDistances/ParallelLinesException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GeometryDistances/src/main/java/ParallelLinesException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryDistances/src/main/java/company/evo/GeometricDistances/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GeometryDistances/src/main/java/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryDistances/src/main/java/company/evo/GeometricDistances/Ray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GeometryDistances/src/main/java/Ray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryDistances/src/main/java/company/evo/GeometricDistances/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GeometryDistances/src/main/java/Section.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryDistances/src/main/java/company/evo/GeometricDistances/Straight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GeometryDistances/src/main/java/Straight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryDistances/src/main/java/company/evo/GeometricDistances/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GeometryDistances/src/main/java/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryDistances/src/test/java/company/evo/DistanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VeryLong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/VeryLong.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/VeryLong_jar/VeryLong.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/VeryLong_jar/VeryLong.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VeryLong/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VeryLong/main/java/company/evo/VeryLong/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VeryLong/main/java/company/evo/VeryLong/StringParcer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VeryLong/main/java/company/evo/VeryLong/VeryLong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VeryLong/test/java/company/evo/VeryLongTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/company/evo/VeryLong/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/company/evo/VeryLong/StringParcer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringParcer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/company/evo/VeryLong/VeryLong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VeryLong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/company/evo/VeryLongTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,42 +58,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/company/evo/VeryLong/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/company/evo/VeryLong/VeryLong.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/company/evo/VeryLongTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state>
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1552327962167" expanded="true" signature="2301:2380" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/company/evo/VeryLong/StringParcer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/VeryLong.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/VeryLongTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="90">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1552682373362" expanded="true" signature="4200:4279" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StringParcer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -205,14 +129,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/company/evo/VeryLong/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/company/evo/VeryLongTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/company/evo/VeryLong/VeryLong.java" />
         <option value="$PROJECT_DIR$/src/main/java/company/evo/VeryLong/StringParcer.java" />
-        <option value="$PROJECT_DIR$/src/test/java/company/evo/VeryLongTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/company/evo/VeryLong/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/java/company/evo/VeryLongTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VeryLongTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
@@ -223,6 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,7 +162,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -245,16 +172,20 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552327962383" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552682384804" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -271,33 +202,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.VeryLongTest.testDiffSentences">
+  <component name="RunManager" selected="JUnit.VeryLongTest">
     <configuration name="VeryLongTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="VeryLong" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.java.company.evo.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.java.company.evo" />
-      <option name="MAIN_CLASS_NAME" value="test.java.company.evo.VeryLongTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VeryLongTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VeryLongTest.testDiffSentences" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VeryLongTest.testDivision" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="VeryLong" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.java.company.evo.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.java.company.evo" />
-      <option name="MAIN_CLASS_NAME" value="test.java.company.evo.VeryLongTest" />
-      <option name="METHOD_NAME" value="testDiffSentences" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VeryLongTest" />
+      <option name="METHOD_NAME" value="testDivision" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VeryLongTest.testIncrementAndDecrement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VeryLong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VeryLongTest" />
+      <option name="METHOD_NAME" value="testIncrementAndDecrement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VeryLongTest.testMultiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VeryLong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VeryLongTest" />
+      <option name="METHOD_NAME" value="testMultiplication" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -307,12 +270,12 @@
       <module name="VeryLong" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.java.company.evo.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.java.company.evo" />
-      <option name="MAIN_CLASS_NAME" value="test.java.company.evo.VeryLongTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VeryLongTest" />
       <option name="METHOD_NAME" value="testingAdd" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -321,9 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.VeryLongTest.testDiffSentences" />
-        <item itemvalue="JUnit.VeryLongTest.testingAdd" />
         <item itemvalue="JUnit.VeryLongTest" />
+        <item itemvalue="JUnit.VeryLongTest.testDivision" />
+        <item itemvalue="JUnit.VeryLongTest.testIncrementAndDecrement" />
+        <item itemvalue="JUnit.VeryLongTest.testingAdd" />
+        <item itemvalue="JUnit.VeryLongTest.testMultiplication" />
       </list>
     </recent_temporary>
   </component>
@@ -338,49 +303,52 @@
       <option name="presentableId" value="Default" />
       <updated>1551609890672</updated>
       <workItem from="1551609894448" duration="10593000" />
-      <workItem from="1552324909436" duration="2905000" />
+      <workItem from="1552324909436" duration="3297000" />
+      <workItem from="1552339643309" duration="12463000" />
+      <workItem from="1552680806762" duration="504000" />
+      <workItem from="1552682310745" duration="76000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VeryLongTest_testDiffSentences - 2019.03.03 at 15h 58m 19s.xml">
-      <configuration name="VeryLongTest.testDiffSentences" configurationId="JUnit" />
+    <history-entry file="VeryLongTest - 2019.03.12 at 12h 16m 07s.xml">
+      <configuration name="VeryLongTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VeryLongTest_testDiffSentences - 2019.03.03 at 16h 00m 40s.xml">
-      <configuration name="VeryLongTest.testDiffSentences" configurationId="JUnit" />
+    <history-entry file="VeryLongTest_testIncrementAndDecrement - 2019.03.12 at 12h 20m 02s.xml">
+      <configuration name="VeryLongTest.testIncrementAndDecrement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VeryLongTest_testDiffSentences - 2019.03.03 at 16h 00m 54s.xml">
-      <configuration name="VeryLongTest.testDiffSentences" configurationId="JUnit" />
+    <history-entry file="VeryLongTest_testIncrementAndDecrement - 2019.03.12 at 12h 20m 25s.xml">
+      <configuration name="VeryLongTest.testIncrementAndDecrement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VeryLongTest_testDiffSentences - 2019.03.03 at 16h 02m 01s.xml">
-      <configuration name="VeryLongTest.testDiffSentences" configurationId="JUnit" />
+    <history-entry file="VeryLongTest - 2019.03.12 at 14h 57m 16s.xml">
+      <configuration name="VeryLongTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VeryLongTest_testDiffSentences - 2019.03.03 at 16h 02m 18s.xml">
-      <configuration name="VeryLongTest.testDiffSentences" configurationId="JUnit" />
+    <history-entry file="VeryLongTest - 2019.03.12 at 15h 05m 47s.xml">
+      <configuration name="VeryLongTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VeryLongTest_testDiffSentences - 2019.03.03 at 16h 05m 37s.xml">
-      <configuration name="VeryLongTest.testDiffSentences" configurationId="JUnit" />
+    <history-entry file="VeryLongTest_testDivision - 2019.03.13 at 00h 02m 05s.xml">
+      <configuration name="VeryLongTest.testDivision" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VeryLongTest_testDiffSentences - 2019.03.03 at 16h 05m 42s.xml">
-      <configuration name="VeryLongTest.testDiffSentences" configurationId="JUnit" />
+    <history-entry file="VeryLongTest_testDivision - 2019.03.13 at 00h 03m 27s.xml">
+      <configuration name="VeryLongTest.testDivision" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VeryLongTest_testingAdd - 2019.03.11 at 20h 22m 05s.xml">
-      <configuration name="VeryLongTest.testingAdd" configurationId="JUnit" />
+    <history-entry file="VeryLongTest_testDivision - 2019.03.13 at 00h 03m 39s.xml">
+      <configuration name="VeryLongTest.testDivision" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VeryLongTest_testDiffSentences - 2019.03.11 at 20h 22m 22s.xml">
-      <configuration name="VeryLongTest.testDiffSentences" configurationId="JUnit" />
+    <history-entry file="VeryLongTest_testDivision - 2019.03.13 at 00h 03m 54s.xml">
+      <configuration name="VeryLongTest.testDivision" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VeryLongTest_testDiffSentences - 2019.03.11 at 20h 22m 59s.xml">
-      <configuration name="VeryLongTest.testDiffSentences" configurationId="JUnit" />
+    <history-entry file="VeryLongTest - 2019.03.15 at 23h 23m 25s.xml">
+      <configuration name="VeryLongTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13498000" />
+    <option name="totallyTimeSpent" value="26933000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1881259" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19527897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -389,7 +357,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4117647" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3626506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,38 +392,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/company/evo/VeryLong/StringParcer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state>
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/company/evo/VeryLongTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/VeryLong.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringParcer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1552327962167" expanded="true" signature="2301:2380" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/company/evo/VeryLong/VeryLong.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/VeryLongTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/company/evo/VeryLong/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="90">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1552682373362" expanded="true" signature="4200:4279" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
