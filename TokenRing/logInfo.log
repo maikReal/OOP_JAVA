@@ -1,0 +1,28 @@
+апр. 24, 2019 2:09:24 AM Node run
+INFO: Get data from node Node 1, set to Node 2
+апр. 24, 2019 2:09:24 AM Node run
+INFO: Get data from node Node 0, set to Node 1
+апр. 24, 2019 2:09:24 AM Node run
+INFO: Get data from node Node 2, set to Node 3
+апр. 24, 2019 2:09:25 AM Node run
+INFO: Get data from node Node 1, set to Node 2
+апр. 24, 2019 2:09:25 AM Node run
+INFO: Get data from node Node 2, set to Node 3
+апр. 24, 2019 2:09:25 AM Node run
+INFO: Get data from node Node 3, set to Node 4
+апр. 24, 2019 2:09:26 AM Node run
+INFO: Get data from node Node 3, set to Node 4
+апр. 24, 2019 2:09:26 AM Node run
+INFO: Get data from node Node 2, set to coordinator Node 4. Delay in network: 3075670568
+апр. 24, 2019 2:09:26 AM Node run
+INFO: Get data from node Node 4, set to coordinator Node 4. Delay in network: 3075618846
+апр. 24, 2019 2:09:27 AM Node run
+INFO: Get data from node Node 4, set to Node 5
+апр. 24, 2019 2:09:28 AM Node run
+INFO: Get data from node Node 5, set to Node 6
+апр. 24, 2019 2:09:29 AM Node run
+INFO: Get data from node Node 6, set to Node 7
+апр. 24, 2019 2:09:30 AM Node run
+INFO: Get data from node Node 7, set to Node 8
+апр. 24, 2019 2:09:31 AM Node run
+INFO: Get data from node Node 8, set to coordinator Node 4. Delay in network: 8106654068
