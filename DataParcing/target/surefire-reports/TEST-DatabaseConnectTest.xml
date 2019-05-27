@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="DatabaseConnectTest" time="17.255" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="gopherProxySet" value="false"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/mkrupin/Documents/git/krupinmi-hw4/DataParcing/target/test-classes:/Users/mkrupin/Documents/git/krupinmi-hw4/DataParcing/target/classes:/Users/mkrupin/.m2/repository/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar:/Users/mkrupin/.m2/repository/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar:/Users/mkrupin/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/mkrupin/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/mkrupin/.m2/repository/commons-io/commons-io/2.5/commons-io-2.5.jar:/Users/mkrupin/.m2/repository/mysql/mysql-connector-java/8.0.11/mysql-connector-java-8.0.11.jar:/Users/mkrupin/.m2/repository/com/google/protobuf/protobuf-java/2.6.0/protobuf-java-2.6.0.jar:/Users/mkrupin/.m2/repository/com/yandex/android/disk-restapi-sdk/1.03/disk-restapi-sdk-1.03.jar:/Users/mkrupin/.m2/repository/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar:/Users/mkrupin/.m2/repository/com/squareup/okhttp/okhttp/2.3.0/okhttp-2.3.0.jar:/Users/mkrupin/.m2/repository/com/squareup/retrofit/retrofit/1.9.0/retrofit-1.9.0.jar:/Users/mkrupin/.m2/repository/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.jar:/Users/mkrupin/.m2/repository/com/squareup/okio/okio/1.6.0/okio-1.6.0.jar:/Users/mkrupin/.m2/repository/org/apache/poi/poi-ooxml/3.12/poi-ooxml-3.12.jar:/Users/mkrupin/.m2/repository/org/apache/poi/poi-ooxml-schemas/3.12/poi-ooxml-schemas-3.12.jar:/Users/mkrupin/.m2/repository/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar:/Users/mkrupin/.m2/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar:/Users/mkrupin/.m2/repository/org/apache/poi/poi/3.12/poi-3.12.jar:/Users/mkrupin/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.5.0-M1/junit-jupiter-api-5.5.0-M1.jar:/Users/mkrupin/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/Users/mkrupin/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/Users/mkrupin/.m2/repository/org/junit/platform/junit-platform-commons/1.5.0-M1/junit-platform-commons-1.5.0-M1.jar:/Users/mkrupin/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.4.2/junit-jupiter-engine-5.4.2.jar:/Users/mkrupin/.m2/repository/org/junit/platform/junit-platform-engine/1.4.2/junit-platform-engine-1.4.2.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/mkrupin/Documents/git/krupinmi-hw4/DataParcing/target/surefire/surefirebooter8845239513211961629.jar /Users/mkrupin/Documents/git/krupinmi-hw4/DataParcing/target/surefire 2019-05-18T17-50-22_641-jvmRun1 surefire2713076925937020289tmp surefire_014024353504606884794tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/mkrupin/Documents/git/krupinmi-hw4/DataParcing/target/test-classes:/Users/mkrupin/Documents/git/krupinmi-hw4/DataParcing/target/classes:/Users/mkrupin/.m2/repository/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar:/Users/mkrupin/.m2/repository/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar:/Users/mkrupin/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/mkrupin/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/mkrupin/.m2/repository/commons-io/commons-io/2.5/commons-io-2.5.jar:/Users/mkrupin/.m2/repository/mysql/mysql-connector-java/8.0.11/mysql-connector-java-8.0.11.jar:/Users/mkrupin/.m2/repository/com/google/protobuf/protobuf-java/2.6.0/protobuf-java-2.6.0.jar:/Users/mkrupin/.m2/repository/com/yandex/android/disk-restapi-sdk/1.03/disk-restapi-sdk-1.03.jar:/Users/mkrupin/.m2/repository/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar:/Users/mkrupin/.m2/repository/com/squareup/okhttp/okhttp/2.3.0/okhttp-2.3.0.jar:/Users/mkrupin/.m2/repository/com/squareup/retrofit/retrofit/1.9.0/retrofit-1.9.0.jar:/Users/mkrupin/.m2/repository/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.jar:/Users/mkrupin/.m2/repository/com/squareup/okio/okio/1.6.0/okio-1.6.0.jar:/Users/mkrupin/.m2/repository/org/apache/poi/poi-ooxml/3.12/poi-ooxml-3.12.jar:/Users/mkrupin/.m2/repository/org/apache/poi/poi-ooxml-schemas/3.12/poi-ooxml-schemas-3.12.jar:/Users/mkrupin/.m2/repository/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar:/Users/mkrupin/.m2/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar:/Users/mkrupin/.m2/repository/org/apache/poi/poi/3.12/poi-3.12.jar:/Users/mkrupin/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.5.0-M1/junit-jupiter-api-5.5.0-M1.jar:/Users/mkrupin/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/Users/mkrupin/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/Users/mkrupin/.m2/repository/org/junit/platform/junit-platform-commons/1.5.0-M1/junit-platform-commons-1.5.0-M1.jar:/Users/mkrupin/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.4.2/junit-jupiter-engine-5.4.2.jar:/Users/mkrupin/.m2/repository/org/junit/platform/junit-platform-engine/1.4.2/junit-platform-engine-1.4.2.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/mkrupin"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-01-15"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/mkrupin/Documents/git/krupinmi-hw4/DataParcing"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/Users/mkrupin/Documents/git/krupinmi-hw4/DataParcing/target/surefire/surefirebooter8845239513211961629.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.2+9-LTS"/>
+    <property name="user.name" value="mkrupin"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.14.3"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="/Users/mkrupin/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/zh/996288z13w30qlpmy6jxv_480000gp/T/"/>
+    <property name="java.version" value="11.0.2"/>
+    <property name="user.dir" value="/Users/mkrupin/Documents/git/krupinmi-hw4/DataParcing"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/Users/mkrupin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.2+9-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="changeDomens" classname="DatabaseConnectTest" time="0.093"/>
+  <testcase name="insertLogs" classname="DatabaseConnectTest" time="0.008"/>
+  <testcase name="getAreas" classname="DatabaseConnectTest" time="0.012"/>
+  <testcase name="getTop10" classname="DatabaseConnectTest" time="0.008"/>
+</testsuite>

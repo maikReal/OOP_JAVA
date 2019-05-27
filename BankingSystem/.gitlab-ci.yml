@@ -1,0 +1,37 @@
+image: ubuntu:latest
+
+before_script:
+  - "apt-get update"
+  - "apt install maven -y"
+
+stages:
+  - build
+  - test
+  - package
+
+build:
+  stage: build
+  tags:
+    - docker-hse
+  script:
+    - cd BankingSystem
+    - mvn compile
+
+test:
+  stage: test
+  tags:
+    - docker-hse
+  script:
+    - cd BankingSystem
+    - mvn test
+
+package:
+  stage: package
+  tags:
+    - docker-hse
+  script:
+    - cd BankingSystem
+    - mvn package
+  artifacts:
+    paths:
+      - /builds/hseoop2019/krupinmi-hw6/BankingSystem/target/BankSystem.jar
